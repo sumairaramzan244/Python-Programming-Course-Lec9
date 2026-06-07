@@ -1,6 +1,6 @@
 # Python-Programming-Course-Lec 9 and Lec 10 
 
-# Python Basics — Punjab Hunarmand Batch 3
+# Python Basics — Punjab Hunarmand Batch 3  
 This repository contains my Python code from Lecture 9 at Punjab Hunarmand Program, Batch 3.
 
 ---
